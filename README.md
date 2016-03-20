@@ -1,1 +1,2 @@
 [![Build Status](https://travis-ci.org/SimoKorp/ohtu-viikko1-2016.svg?branch=master)](https://travis-ci.org/SimoKorp/ohtu-viikko1-2016)
+[![Coverage Status](https://coveralls.io/repos/github/SimoKorp/ohtu-viikko1-2016/badge.svg?branch=master)](https://coveralls.io/github/SimoKorp/ohtu-viikko1-2016?branch=master)
